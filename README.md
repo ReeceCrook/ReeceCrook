@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a **passionate software developer** who loves 
     - Incorporated Formik and Yup for form validation.
     - Employed Google Maps JavaScript API to identify the location of the townhomes.
 
-- **[Auto-Parts-Browser(Just Started!)](https://github.com/ReeceCrook/Auto-Parts-Browser)**:
+- **[Auto-Parts-Browser](https://github.com/ReeceCrook/Auto-Parts-Browser)**:
   - This project combines my passion for auto mechanics with my expertise in software engineering, showcasing both my technical skills and dedication to creating impactful solutions. As an auto enthusiast for years, I was inspired to develop a platform       that simplifies the process of finding and comparing auto parts, making it easier for users to locate what they need efficiently. This project is a testament to my commitment to delivering a high-quality product that merges functionality with my          personal interests. I am determined to make it a standout accomplishment in my portfolio.
   
     - Using the Google Places API, the site identifies auto parts stores within a specified radius based on the user's location or chosen area.
